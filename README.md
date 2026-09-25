@@ -57,13 +57,6 @@ Aplikasi pengingat deadline Android yang minimal dan local-first, dengan fokus m
 
 **Kotlin · Android · Local-first**
 
-### [MonoRoutine Web App](https://github.com/Weinssy/MonoRoutine-Web-App)
-Habit dan task tracker PWA bergaya monokrom dengan alarm sintetis, notifikasi deadline, dukungan offline, dan backup dalam berbagai format.
-
-**PWA · Tailwind CSS · LocalStorage · Web Audio API**
-
-[🔗 Coba aplikasinya](https://weinssy.github.io/MonoRoutine-Web-App/)
-
 ### [Hongo Study](https://github.com/Weinssy/Hongo-Study)
 Website belajar bahasa Jepang yang ringkas dan ramah untuk siswa SMA—mencakup pengenalan aksara, latihan percakapan, dan pola grammar.
 
