@@ -1,4 +1,4 @@
-# Halo, saya Weinssy 👋
+# Halo, saya Rifa Zam Zami 👋
 
 Saya sedang membangun aplikasi yang **sederhana, fokus, dan berguna untuk kehidupan sehari-hari**—mulai dari pencatatan pengeluaran, pengelolaan tugas dan kebiasaan, hingga media belajar interaktif.
 
