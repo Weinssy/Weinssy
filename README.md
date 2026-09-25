@@ -83,12 +83,6 @@ Saya senang mengeksplorasi:
 - privasi dan penyimpanan data di perangkat pengguna;
 - solusi kecil yang menyelesaikan masalah nyata.
 
-## 📊 Aktivitas GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Weinssy&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Statistik GitHub Weinssy" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weinssy&layout=compact&theme=transparent&hide_border=true" alt="Bahasa pemrograman yang sering digunakan" />
-</p>
 
 ## 📫 Temukan saya
 
