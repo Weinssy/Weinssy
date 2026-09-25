@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Rifa Zam Zami and I'm a Software Enginer</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Rifa Zam Zami and I'm a Software Engineer</h2>
 
 ###
 
