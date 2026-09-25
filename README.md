@@ -2,13 +2,6 @@
 
 Saya sedang membangun aplikasi yang **sederhana, fokus, dan berguna untuk kehidupan sehari-hari**—mulai dari pencatatan pengeluaran, pengelolaan tugas dan kebiasaan, hingga media belajar interaktif.
 
-## 🚀 Tentang saya
-
-- 📱 Mengembangkan aplikasi Android dengan **Kotlin** dan **Jetpack Compose**
-- 🌐 Membuat website dan Progressive Web App yang ringan serta responsif
-- 📴 Menyukai pendekatan **local-first** dan pengalaman offline
-- 🎯 Tertarik pada produktivitas, personal finance, habit tracking, dan edutech
-- 🧩 Fokus pada antarmuka minimalis yang mudah digunakan
 
 
 <img data-importer="image" align="right" height="150" src="https://i.pinimg.com/280x280_RS/17/b6/de/17b6de2ea644a5e1e8b9cbe3af90de7a.jpg"  />
@@ -30,6 +23,14 @@ Saya sedang membangun aplikasi yang **sederhana, fokus, dan berguna untuk kehidu
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+## 🚀 Tentang saya
+
+- 📱 Mengembangkan aplikasi Android dengan **Kotlin** dan **Jetpack Compose**
+- 🌐 Membuat website dan Progressive Web App yang ringan serta responsif
+- 📴 Menyukai pendekatan **local-first** dan pengalaman offline
+- 🎯 Tertarik pada produktivitas, personal finance, habit tracking, dan edutech
+- 🧩 Fokus pada antarmuka minimalis yang mudah digunakan
 
 ## 🛠️ Teknologi yang digunakan
 
