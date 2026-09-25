@@ -62,8 +62,7 @@ Website belajar bahasa Jepang yang ringkas dan ramah untuk siswa SMA—mencakup 
 
 [🔗 Kunjungi Hongo Study](https://weinssy.github.io/Hongo-Study/)
 
-### [Present](https://github.com/Weinssy/Present)
-Salah satu proyek website eksperimental dalam eksplorasi saya terhadap pengalaman web yang sederhana dan informatif.
+
 
 ## 📌 Prinsip dalam membangun proyek
 
