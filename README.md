@@ -24,13 +24,6 @@ Saya sedang membangun aplikasi yang **sederhana, fokus, dan berguna untuk kehidu
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-## 🚀 Tentang saya
-
-- 📱 Mengembangkan aplikasi Android dengan **Kotlin** dan **Jetpack Compose**
-- 🌐 Membuat website dan Progressive Web App yang ringan serta responsif
-- 📴 Menyukai pendekatan **local-first** dan pengalaman offline
-- 🎯 Tertarik pada produktivitas, personal finance, habit tracking, dan edutech
-- 🧩 Fokus pada antarmuka minimalis yang mudah digunakan
 
 ## 🛠️ Teknologi yang digunakan
 
