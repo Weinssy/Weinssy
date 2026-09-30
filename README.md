@@ -57,18 +57,6 @@ Website belajar bahasa Jepang yang ringkas dan ramah untuk siswa SMA—mencakup 
 
 
 
-## 📌 Prinsip dalam membangun proyek
-
-> Bangun sesuatu yang terasa sederhana bagi pengguna, meskipun proses di baliknya tetap dipikirkan dengan serius.
-
-Saya senang mengeksplorasi:
-
-- desain minimalis dan pengalaman pengguna yang jelas;
-- aplikasi yang tetap berguna tanpa koneksi internet;
-- privasi dan penyimpanan data di perangkat pengguna;
-- solusi kecil yang menyelesaikan masalah nyata.
-
-
 ## 📫 Temukan saya
 
 - GitHub: [@Weinssy](https://github.com/Weinssy)
