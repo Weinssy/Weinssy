@@ -1,6 +1,6 @@
 <h2 data-importer="text" align="left">Hi 👋! My name is Rifa Zam Zami and I'm a Software Engineer</h2>
 
-Saya sedang membangun aplikasi yang **sederhana, fokus, dan berguna untuk kehidupan sehari-hari**—mulai dari pencatatan pengeluaran, pengelolaan tugas dan kebiasaan, hingga media belajar interaktif.
+Saya sedang membangun aplikasi dan web yang **sederhana, fokus, dan berguna untuk kehidupan sehari-hari**—mulai dari pencatatan pengeluaran, pengelolaan tugas dan kebiasaan, hingga media belajar interaktif.
 
 
 
@@ -37,24 +37,6 @@ Saya sedang membangun aplikasi yang **sederhana, fokus, dan berguna untuk kehidu
   <img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge&logo=android&logoColor=white" alt="Room" />
   <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
 </p>
-
-## 🌟 Proyek pilihan
-
-### [Fast-Track](https://github.com/Weinssy/Fast-Track)
-Aplikasi pencatat pengeluaran harian Android yang cepat, privat, dan **local-first**. Dilengkapi analitik pengeluaran, kategori inline, penyimpanan Room, serta ekspor CSV.
-
-**Kotlin · Jetpack Compose · Room · Android**
-
-### [DueSoon](https://github.com/Weinssy/DueSoon)
-Aplikasi pengingat deadline Android yang minimal dan local-first, dengan fokus membantu pengguna menentukan tugas paling penting untuk ditangani berikutnya.
-
-**Kotlin · Android · Local-first**
-
-### [Hongo Study](https://github.com/Weinssy/Hongo-Study)
-Website belajar bahasa Jepang yang ringkas dan ramah untuk siswa SMA—mencakup pengenalan aksara, latihan percakapan, dan pola grammar.
-
-[🔗 Kunjungi Hongo Study](https://weinssy.github.io/Hongo-Study/)
-
 
 
 ## 📫 Temukan saya
